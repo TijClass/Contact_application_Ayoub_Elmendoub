@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a8205c7b-ec24-49d2-a1a2-c485e3f96534" name="Default Changelist" comment="Final version">
+      <change beforePath="$PROJECT_DIR$/assets/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logout.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/logout.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpDebugGeneral" xdebug_show_addresses="true" break_at_first_line="true" listening_started="true" />
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="3645d51c-5969-4aa0-abd0-8eac3f64cfa4" name="localhost" />
+      <server host="localhost" id="c04b21a6-b1a6-49a9-9dec-9a08b335a852" name="localhost (1)" port="8000" />
+      <server host="localhost" id="2e3ea314-b8a8-44f6-af84-aad885396f96" name="localhost (2)" port="8080" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
+  <component name="ProjectId" id="1p7Cn2tyJaLCfvB85afRL0C7RO6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Constants" value="false" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Contact_application_Ayoub_Elmendoub\public" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8205c7b-ec24-49d2-a1a2-c485e3f96534" name="Default Changelist" comment="" />
+      <created>1614524904755</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614524904755</updated>
+      <workItem from="1614524906230" duration="3781000" />
+      <workItem from="1614586339104" duration="11972000" />
+      <workItem from="1614606551498" duration="5084000" />
+      <workItem from="1614778898714" duration="4802000" />
+      <workItem from="1614860182286" duration="3734000" />
+      <workItem from="1614865768440" duration="2096000" />
+      <workItem from="1614871826723" duration="1027000" />
+      <workItem from="1614932537791" duration="7401000" />
+    </task>
+    <task id="LOCAL-00001" summary="Final version">
+      <created>1614937766743</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614937766743</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Final version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final version" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="596" y="271" key="#Notifications" timestamp="1614860281737">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="596" y="271" key="#Notifications/0.0.1920.1080@0.0.1920.1080" timestamp="1614860281737" />
+    <state x="633" y="0" key="#PHP" timestamp="1614527058565">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="633" y="0" key="#PHP/0.0.1920.1080@0.0.1920.1080" timestamp="1614527058565" />
+    <state x="221" y="339" key="#SQL_Dialects" timestamp="1614525186981">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="221" y="339" key="#SQL_Dialects/0.0.1920.1080@0.0.1920.1080" timestamp="1614525186981" />
+    <state x="702" y="364" key="#Scopes" timestamp="1614872032751">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="702" y="364" key="#Scopes/0.0.1920.1080@0.0.1920.1080" timestamp="1614872032751" />
+    <state x="552" y="82" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614860722783">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="82" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1614860722783" />
+    <state x="596" y="0" key="#xdebugger.evaluate" timestamp="1614865209607">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="596" y="0" key="#xdebugger.evaluate/0.0.1920.1080@0.0.1920.1080" timestamp="1614865209607" />
+    <state width="527" height="907" key="DebuggerActiveHint" timestamp="1614935942406">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="527" height="907" key="DebuggerActiveHint/0.0.1920.1080@0.0.1920.1080" timestamp="1614935942406" />
+    <state x="634" y="174" key="FileChooserDialogImpl" timestamp="1614860210038">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="634" y="174" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1614860210038" />
+    <state width="828" height="897" key="GridCell.Tab.0.bottom" timestamp="1614947451986">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="828" height="897" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1614947451986" />
+    <state width="828" height="897" key="GridCell.Tab.0.center" timestamp="1614947451985">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="828" height="897" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1614947451985" />
+    <state width="828" height="897" key="GridCell.Tab.0.left" timestamp="1614947451985">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="828" height="897" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1614947451985" />
+    <state width="828" height="897" key="GridCell.Tab.0.right" timestamp="1614947451985">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="828" height="897" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1614947451985" />
+    <state width="828" height="666" key="GridCell.Tab.1.bottom" timestamp="1614947451760">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="828" height="666" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1614947451760" />
+    <state width="828" height="666" key="GridCell.Tab.1.center" timestamp="1614947451760">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="828" height="666" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1614947451760" />
+    <state width="828" height="666" key="GridCell.Tab.1.left" timestamp="1614947451760">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="828" height="666" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1614947451760" />
+    <state width="828" height="666" key="GridCell.Tab.1.right" timestamp="1614947451760">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="828" height="666" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1614947451760" />
+    <state width="828" height="666" key="GridCell.Tab.2.bottom" timestamp="1614947451763">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="828" height="666" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1614947451763" />
+    <state width="828" height="666" key="GridCell.Tab.2.center" timestamp="1614947451760">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="828" height="666" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1614947451760" />
+    <state width="828" height="666" key="GridCell.Tab.2.left" timestamp="1614947451760">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="828" height="666" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1614947451760" />
+    <state width="828" height="666" key="GridCell.Tab.2.right" timestamp="1614947451760">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="828" height="666" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1614947451760" />
+    <state x="351" y="20" key="SettingsEditor" timestamp="1614937098744">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="351" y="20" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1614937098744" />
+    <state x="452" y="203" key="Vcs.Push.Dialog.v2" timestamp="1614947535607">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="452" y="203" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1614947535607" />
+    <state x="838" y="388" width="354" height="390" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1614779508684">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="838" y="388" width="354" height="390" key="com.intellij.database.actions.DdlActions$CreateObject$1/0.0.1920.1080@0.0.1920.1080" timestamp="1614779508684" />
+    <state x="795" y="397" width="363" height="326" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1614525332388">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="795" y="397" width="363" height="326" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1920.1080@0.0.1920.1080" timestamp="1614525332388" />
+    <state x="830" y="458" width="372" height="164" key="com.intellij.database.run.ParametersPanel.Standalone" timestamp="1614526206094">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="830" y="458" width="372" height="164" key="com.intellij.database.run.ParametersPanel.Standalone/0.0.1920.1080@0.0.1920.1080" timestamp="1614526206094" />
+    <state x="321" y="230" width="944" height="688" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1614783973183">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="321" y="230" width="944" height="688" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1614783973183" />
+    <state x="739" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614947526422">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="739" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1614947526422" />
+  </component>
+</project>
